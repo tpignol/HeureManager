@@ -1,0 +1,3 @@
+HeureManager  class
+begin  method
+getHeure  method
